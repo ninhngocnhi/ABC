@@ -104,6 +104,6 @@ venv.bak/
 .mypy_cache/
 
 #data
-tts/
+tts/InkData_line_processed/
 
 # pretrain
